@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Moodle",
+    "version": "1.0",
+    "description": "Pagina personal.",
+    "background": {
+      "service_worker": "background.js"
+    },
+    "icons": {
+        "128": "192.png"
+      },
+    "permissions": ["tabs"]
+  }
+  
